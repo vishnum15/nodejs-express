@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-express",
+  "version": "1.0.0",
+  "description": "Initial dependencies required for running the application.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vishnum15/nodejs-express.git"
+  },
+  "author": "Vishnu Prasad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vishnum15/nodejs-express/issues"
+  },
+  "homepage": "https://github.com/vishnum15/nodejs-express#readme"
+}
