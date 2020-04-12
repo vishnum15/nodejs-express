@@ -2,9 +2,9 @@
   "name": "nodejs-express",
   "version": "1.0.0",
   "description": "Initial dependencies required for running the application.",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node app"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/vishnum15/nodejs-express/issues"
   },
-  "homepage": "https://github.com/vishnum15/nodejs-express#readme"
+  "homepage": "https://github.com/vishnum15/nodejs-express#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
